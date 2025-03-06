@@ -13,5 +13,6 @@ public class Main{
     public static void main(String a[]) {
         Factorial obj = new Factorial();
         System.out.println(obj.fact(5));
+        System.out.println("Hello World!!!");
     }
 }
